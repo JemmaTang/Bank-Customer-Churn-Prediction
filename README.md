@@ -1,4 +1,4 @@
-# Machine-Learning-by-Python-realization # Bank Customer Churn Prediction
+# Bank Customer Churn Prediction # Machine-Learning-by-Python-realization
 I did this machine learning project via python programming and the data used here were extracted from Kaggle dataset.
 
 The customer churn, which is also known as customer attrition, refers to the phenomenon whereby a customer leaves a company. Some studies confirmed that acquiring new customers can cost five times more than satisfying and retaining existing customers. As a matter of fact, there are a lot of benefits that encourage the tracking of the customer churn rate, for example:
